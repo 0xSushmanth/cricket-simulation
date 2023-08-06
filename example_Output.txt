@@ -1,0 +1,84 @@
+PS D:\Documents\GitHub\cricket-simulation> & "C:/Program Files/Python311/python.exe" d:/Documents/GitHub/cricket-simulation/cricket_match_simulation.py
+
+--------- Game Information ---------
+
+Country1 Vs Country2
+Captain 1: Player1_3, Captain 2: Player2_4   
+Total Overs: 1
+
+---------------------------------------------
+
+
+------------- GAME STARTED ------------------
+
+Team Country1 playing:
+
+Balls: 1 Over: 0 Run: 0 Wicket: 0
+Player1_1 plays the shot.
+Balls: 1 Over: 0 Run: 0 Wicket: 0
+Balls: 2 Over: 0 Run: 0 Wicket: 0
+Player1_1 plays the shot.
+Balls: 2 Over: 0 Run: 3 Wicket: 0
+Balls: 3 Over: 0 Run: 3 Wicket: 0
+Player1_1 is OUT!
+Wickets: 1, Overs: 0
+New player Player1_2 is playing...
+Balls: 3 Over: 0 Run: 3 Wicket: 1
+Balls: 4 Over: 0 Run: 3 Wicket: 1
+Player1_2 plays the shot.
+Balls: 4 Over: 0 Run: 9 Wicket: 1
+Balls: 5 Over: 0 Run: 9 Wicket: 1
+Player1_2 plays the shot.
+Balls: 5 Over: 0 Run: 15 Wicket: 1
+Balls: 6 Over: 0 Run: 15 Wicket: 1
+Player1_2 plays the shot.
+Over 1 Starting...
+Balls: 0 Over: 1 Run: 21 Wicket: 1
+
+Final Run: 21 Wicket: 1 Overs: 1
+
+---------------------------------------------
+
+
+------------- GAME STARTED ------------------
+
+Team Country2 playing:
+
+Balls: 1 Over: 0 Run: 0 Wicket: 0
+Player2_1 is OUT!
+Wickets: 1, Overs: 0
+New player Player2_2 is playing...
+Balls: 1 Over: 0 Run: 0 Wicket: 1
+Balls: 2 Over: 0 Run: 0 Wicket: 1
+Player2_2 is OUT!
+Wickets: 2, Overs: 0
+New player Player2_3 is playing...
+Balls: 2 Over: 0 Run: 0 Wicket: 2
+Balls: 3 Over: 0 Run: 0 Wicket: 2
+Player2_3 is OUT!
+Wickets: 3, Overs: 0
+New player Player2_4 is playing...
+Balls: 3 Over: 0 Run: 0 Wicket: 3
+Balls: 4 Over: 0 Run: 0 Wicket: 3
+Player2_4 is OUT!
+Wickets: 4, Overs: 0
+New player Player2_5 is playing...
+Balls: 4 Over: 0 Run: 0 Wicket: 4
+Balls: 5 Over: 0 Run: 0 Wicket: 4
+Player2_5 plays the shot.
+Balls: 5 Over: 0 Run: 1 Wicket: 4
+Balls: 6 Over: 0 Run: 1 Wicket: 4
+Player2_5 is OUT!
+Wickets: 5, Overs: 0
+New player Player2_6 is playing...
+Over 1 Starting...
+Balls: 0 Over: 1 Run: 1 Wicket: 5
+
+Final Run: 1 Wicket: 5 Overs: 1
+
+---------------------------------------------
+
+--------------- Winner -----------------------
+TEAM: Country1 WON BY SCORE: 21 with 5 wickets remaining
+
+---------------------------------------------
